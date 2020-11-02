@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> I cloned Kakao*Talk in my style with HTML, CSS, Javascript, and Canva.
+> I cloned KakaoTalk in my style with HTML, CSS, Javascript, and Canva.
 
 ## Usage command
 
