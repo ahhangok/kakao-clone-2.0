@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to CabbageGame 💬</h1>
+<h1 align="center">Welcome to kakao-clone-2.0 💬</h1>
 <p>
 </p>
 
