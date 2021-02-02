@@ -3,7 +3,7 @@
 </p>
 
 > I made a simple Kakao Talk using HTML and CSS.
-> Click the link below to see the project right away.
+> Click the link to see the project right away.(링크 클릭시 프로젝트 바로 보기)
 > https://jmkakaohihi.netlify.app/
 
 
